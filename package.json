@@ -1,7 +1,7 @@
 {
   "name": "rtbh-api",
   "version": "0.0.5",
-  "description": "RTBH'ta ki ipleri ve ip sayılarını listeleyebileceğiniz, bir api.",
+  "description": "RTBH'ta listelenen zararlı ip adreslerinin sitenize girişini engelleyecek basit bir node.js paketi",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,7 +11,7 @@
   },
   "keywords": [
     "API",
-    "BLOCKAPI",
+    "DDOS",
     "RTBH"
   ],
   "author": "Tunay Engin",
