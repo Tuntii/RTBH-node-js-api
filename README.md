@@ -34,3 +34,5 @@ rtbhApi.init().then(() => {
     console.log('This IP address is not in the list, access granted.');
   }
 });
+```
+Happy Hacking!
