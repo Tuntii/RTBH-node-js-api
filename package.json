@@ -1,7 +1,7 @@
 {
   "name": "rtbh-ip-blocker",
-  "version": "0.0.8",
-  "description": "RTBH'ta listelenen zararlı ip adreslerinin sitenize girişini engelleyecek basit bir node.js paketi",
+  "version": "0.0.9",
+  "description": "Remotely Triggered Black Hole ip list blocker",
   "main": "index.js",
   "directories": {
     "lib": "lib"
