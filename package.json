@@ -1,5 +1,5 @@
 {
-  "name": "rtbh-api",
+  "name": "rtbh-ip-blocker",
   "version": "0.0.5",
   "description": "RTBH'ta listelenen zararlı ip adreslerinin sitenize girişini engelleyecek basit bir node.js paketi",
   "main": "index.js",
